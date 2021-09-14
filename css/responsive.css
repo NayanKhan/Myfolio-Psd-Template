@@ -1,0 +1,381 @@
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    
+    header .navbar .navbar-nav .nav-item .nav-link {
+        color: #000;
+    }
+    header .navbar .navbar-nav .nav-item .nav-link.active,
+    header .navbar .navbar-nav .nav-item .nav-link:hover {
+        color: #fff;
+    }
+    #banner {
+        padding: 120px 0px;
+    }
+    #banner p {
+        font-size: 23px;
+    }
+    #banner h1 {
+        letter-spacing: 12px;
+        font-size: 55px;
+        color: #cfc91d;
+    }
+    #banner h4 {
+        padding-bottom: 30px;
+        font-size: 16px;
+    }
+    #banner span {
+        margin-top: 45px;
+    }
+    #banner span a {
+        font-size: 13px;
+        padding: 0px 36px;
+        line-height: 45px;
+    }
+    .common_part h2 {
+        padding-bottom: 0px;
+        font-size: 38px;
+    }
+    .common_part span {
+        font-size: 14px;
+    }
+    .common_part p {
+        font-size: 12px;
+        line-height: 30px;
+        padding-top: 10px;
+    }
+    .common_part p strong {
+        font-size: 14px;
+    }
+    #about {
+        padding: 60px 0px 75px 0px;
+    }
+    #about .bor_right {
+        border-right: 0;
+    }
+    #about .content {
+        margin-top: 40px;
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    #about .content i {
+        font-size: 35px;
+    }
+    #about .content h3 {
+        font-size: 15px;
+    }
+
+    #service .ser_content i {
+        font-size: 30px;
+    }
+    #service .ser_content h3 {
+        font-size: 15px;
+    }
+    #service .ser_content p {
+        font-size: 10px;
+    }
+    #work {
+        padding-top: 40px;
+    }
+    #work .work_gly {
+        margin-top: 50px;
+    }
+    #work .gly_img .img_overlay h4 {
+        margin-top: 70px;
+        font-size: 16px;
+        padding-bottom: 0px;
+    }
+    #work .gly_img .img_overlay p {
+        font-size: 13px;
+        line-height: 25px;
+        padding-top: 10px;
+    }
+    #contact {
+        padding-top: 60px;
+    }
+    #contact .content_field .input input {
+        margin-top: 45px;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+    #contact .content_field textarea {
+        margin-top: 45px;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+    #contact .content_field .btn input {
+        margin: 50px 0px;
+        padding: 0px 60px;
+        line-height: 42px;
+        font-size: 13px;
+    }
+    footer p {
+        line-height: 50px;
+    }
+
+}
+
+@media only screen and (max-width:767px) {
+    
+    .navbar-light .navbar-toggler {
+        border: none;
+        padding: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+    header .navbar .navbar-nav {
+        border-top: 1px solid rgba(255, 255, 255, 0.6);
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    header .navbar .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        line-height: 40px;
+    }
+    
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    
+    #banner {
+        padding: 100px 0px;
+    }
+    #banner p {
+        font-size: 18px;
+    }
+    #banner h1 {
+        font-size: 46px;
+        letter-spacing: 5px;
+    }
+    #banner h4 {
+        font-size: 14px;
+        padding-bottom: 25px;
+    }
+    #banner span {
+        margin-top: 35px;
+    }
+    #banner span a {
+        padding: 0px 30px;
+        line-height: 40px;
+        font-size: 12px;
+    }
+    .common_part h2 {
+        font-size: 32px;
+        padding-bottom: 0px;
+    }
+    .common_part p {
+        font-size: 11px;
+        line-height: 27px;
+        padding-top: 5px;
+    }
+    .common_part p strong {
+        font-size: 14px;
+    }
+    #about {
+        padding: 50px 0px 65px 0px;
+    }
+    #about .bor_right {
+        border-right: 0;
+    }
+    #about .content {
+        margin-top: 40px;
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    #about .content i {
+        font-size: 28px;
+    }
+    #about .content h3 {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 8px;
+    }
+    #about .content p {
+        font-size: 11px;
+    }
+    #service {
+        padding: 40px 0px 45px;
+    }
+    #service .ser_content i {
+        font-size: 30px;
+    }
+    #service .ser_content h3 {
+        font-size: 14px;
+    }
+    #service .ser_content p {
+        font-size: 10px;
+    }
+    #work {
+        padding-top: 40px;
+    }
+    #work .work_gly {
+        margin-top: 50px;
+    }
+    #work .gly_img .img_overlay h4 {
+        margin-top: 60px;
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+    #work .gly_img .img_overlay p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    #contact {
+        padding-top: 50px;
+    }
+    #contact .content_field {
+        margin-top: 40px;
+    }
+    #contact .content_field .input input {
+        margin-top: 40px;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+    #contact .content_field textarea {
+        margin-top: 40px;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+    #contact .content_field .btn input {
+        margin: 40px 0px;
+        padding: 0px 40px;
+        line-height: 38px;
+        font-size: 13px;
+    }
+    footer p {
+        line-height: 45px;
+    }
+
+}
+
+@media only screen and (min-width:300px) and (max-width:575px) {
+    header .navbar-light .navbar-toggler{
+        padding-right: 10px;
+    }
+    header .navbar-brand .image-fluid{
+        padding-left: 10px;
+    }
+    #banner {
+        padding: 80px 0px;
+    }
+    #banner p {
+        font-size: 12px;
+    }
+    #banner h1 {
+        font-size: 40px;
+        letter-spacing: 2px;
+    }
+    #banner h4 {
+        font-size: 10px;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    #banner span {
+        margin-top: 25px;
+    }
+    #banner span a {
+        font-size: 11px;
+        padding: 0px 20px;
+        line-height: 35px;
+    }
+    .common_part h2 {
+        font-size: 26px;
+        padding-bottom: 0px;
+    }
+    .common_part span {
+        font-size: 11px;
+    }
+    .common_part p {
+        font-size: 9px;
+        line-height: 20px;
+        padding-top: 5px;
+    }
+    .common_part p strong {
+        font-size: 12px;
+    }
+    #about {
+        padding: 30px 0px 30px 0px;
+    }
+    #about .bor_right {
+        border-right: 0;
+    }
+    #about .content {
+        margin-top: 0px;
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    #about .content i {
+        font-size: 25px;
+    }
+    #about .content h3 {
+        font-size: 13px;
+        padding-top: 8px;
+        padding-bottom: 6px;
+    }
+    #about .content p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    #service {
+        padding: 30px 0px 30px 15px;
+    }
+    #service .ser_content {
+        padding-top: 25px;
+    }
+    #service .ser_content i {
+        font-size: 25px;
+    }
+    #service .ser_content h3 {
+        font-size: 13px;
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+    #service .ser_content p {
+        font-size: 10px;
+    }
+    #work {
+        padding-top: 40px;
+    }
+    #work .work_gly {
+        margin-top: 35px;
+    }
+    #work .gly_img .img_overlay h4 {
+        margin-top: 20px;
+        font-size: 13px;
+        padding-bottom: 0px;
+    }
+    #work .gly_img .img_overlay p {
+        font-size: 8px;
+        line-height: 15px;
+    }
+    #contact {
+        padding-top: 25px;
+    }
+    #contact .content_field {
+        margin-top: 25px;
+    }
+    #contact .content_field .input input {
+        margin-top: 25px;
+        padding-bottom: 2px;
+        font-size: 11px;
+    }
+    #contact .content_field textarea {
+        margin-top: 25px;
+        padding-bottom: 2px;
+        font-size: 11px;
+        height: 20px;
+    }
+    #contact .content_field .btn input {
+        margin: 25px 0px;
+        padding: 0px 25px;
+        line-height: 32px;
+        font-size: 11px;
+    }
+    footer p {
+        line-height: 35px;
+        font-size: 10px;
+    }
+
+}
